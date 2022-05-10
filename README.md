@@ -1,6 +1,8 @@
 Hi, I’m Omer.
-Currently a computer science student at the open university of Israel.
-In addition, I'm in the middle of Real Time Embedded Linux path in Real Time Group in Israel.
+
+I'm a computer science student at the open university of Israel.
+
+In addition, I'm currently studying Real Time Embedded Linux path at Real Time Group in Israel.
 
 My current fascination are the fields of embedded systems, robotics, AI and machine learning.
 
